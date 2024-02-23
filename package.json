@@ -1,0 +1,16 @@
+{
+  "name": "app-icon-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.mjs",
+    "dev": "nodemon index.mjs"
+  },
+  "type": "module",
+  "dependencies": {
+    "gm": "^1.25.0",
+    "jimp": "^0.22.12",
+    "sharp": "^0.33.2"
+  }
+}
