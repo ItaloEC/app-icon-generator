@@ -12,7 +12,7 @@ async function execute() {
   const sizes = [512, 192, 64, 32, 24, 16];
 
   for (const size of sizes) {
-    const outputImagePath = `images/imagem_${size}x${size}.png`;
+    const outputImagePath = `icons/icon_${size}x${size}.png`;
     await resizeImage(inputImagePath, outputImagePath, size);
     console.log(
       `Imagem redimensionada para ${size}x${size}: ${outputImagePath}`
