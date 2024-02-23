@@ -1,4 +1,4 @@
-# Image Resizer
+# App Icons Generator
 
 This script resizes a square PNG image to various sizes using the Jimp library.
 
@@ -45,7 +45,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 # ----------------------- // ----------------
 
-# Redimensionador de Imagens
+# Gerador de Ícones
 
 Este script redimensiona uma imagem PNG quadrada para vários tamanhos usando a biblioteca Jimp.
 
